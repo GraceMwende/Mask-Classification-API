@@ -30,7 +30,7 @@ Face Mask Detection/
 3. Normalize `/255`
 4. Expand dims → `(1,128,128,3)`
 
-## 🏗️ Model Architecture
+##  Model Architecture
 
 - Conv2D (32) → MaxPool
 - Conv2D (64) → MaxPool
