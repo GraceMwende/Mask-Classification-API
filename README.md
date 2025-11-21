@@ -42,7 +42,7 @@ Face Mask Detection/
 ##  Local Inference
 
 ```
-python inference.py mask_detector.h5 image.jpg
+python inference.py mask_detector.h5 path/image.jpg
 ```
 
 ##  FastAPI Endpoints
